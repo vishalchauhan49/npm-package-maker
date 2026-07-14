@@ -8,11 +8,11 @@ How To Install Initialise In Your Project
 
 ```
 
- npm i cal-math 
+ npm i @vishalchauhan/cal-math 
       OR 
  npm install cal-math
 
-import { math } from "cal-math"
+import { math } from "@vishalchauhan/cal-math"
 ```
 
 
