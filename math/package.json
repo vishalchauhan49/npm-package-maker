@@ -1,0 +1,24 @@
+{
+  "name": "cal-math",
+  "version": "1.0.0",
+  "description": "to do simple maths calculation",
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "homepage": "https://github.com/vishalchauhan49/npm-package-maker#readme",
+  "bugs": {
+    "url": "https://github.com/vishalchauhan49/npm-package-maker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalchauhan49/npm-package-maker.git"
+  },
+  "license": "ISC",
+  "author": "vishal singh chauhan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
