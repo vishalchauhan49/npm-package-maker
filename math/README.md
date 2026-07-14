@@ -10,7 +10,7 @@ How To Install Initialise In Your Project
 
  npm i @vishalchauhan/cal-math 
       OR 
- npm install cal-math
+ npm install @vishalchauhan/cal-math
 
 import { math } from "@vishalchauhan/cal-math"
 ```
