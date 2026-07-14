@@ -7,6 +7,7 @@ How To Install Initialise In Your Project
 
 
 ```
+
  npm i cal-math 
       OR 
  npm install cal-math
