@@ -28,3 +28,9 @@ import { math } from "cal-math"
 - I made this npm package just for my learning purpose .
 - Eventually i will be making advance packages soon .
 - This package work with the modern javascript i.e ESM or ES6 module .
+
+
+## 📌 MECHANISM 
+-  NPM packagesa are simple functions which on call , calls another function .
+- It uses the core concept of simple import , export modules only nothing else complex.
+
